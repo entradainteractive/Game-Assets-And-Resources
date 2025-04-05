@@ -27,6 +27,7 @@ To add or remove items from this list, please make a pull request.
 
 * https://unitylist.com
 * https://kenney.nl/
+* https://kaylousberg.itch.io/
 * https://opengameart.org/
 * https://glitchthegame.com/public-domain-game-art/
 * https://itch.io/game-assets/free
